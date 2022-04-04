@@ -1,0 +1,5 @@
+Lagre resultatet i XML/CSV fil
+Vise Step-by-step algoritmer
+
+GUI:
+Veksle mellom ulike visninger
